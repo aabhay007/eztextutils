@@ -2,7 +2,6 @@
 
 TextUtils is a simple Python package for performing basic text operations.
 
-
 ## Features
 
 - Count words in a text string
